@@ -21,3 +21,10 @@ img {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
